@@ -2,6 +2,8 @@
 
 *A logical, reasonably standardized, but flexible project structure for doing and sharing work. (based on [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/))*
 
+INSERT NAMES AND GROUP NUMBER
+
 This repository contains the base structure for Advanced Automation project. In a near future, your thesis can also use this structure to make your work available for contributions from other authors. 
 
 Please follow the folder structure presented as close as you can. As all projects have different requirements, you will probably have to change the structure a bit to fit your needs.
