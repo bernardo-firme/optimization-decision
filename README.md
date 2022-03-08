@@ -4,7 +4,7 @@
 
 INSERT NAMES AND GROUP NUMBER
 
-This repository contains the base structure for Advanced Automation project. In a near future, your thesis can also use this structure to make your work available for contributions from other authors. 
+This repository contains the base structure for Optimization and Decision project. In a near future, your thesis can also use this structure to make your work available for contributions from other authors. 
 
 Please follow the folder structure presented as close as you can. As all projects have different requirements, you will probably have to change the structure a bit to fit your needs.
 
@@ -37,22 +37,16 @@ The directory structure of your new project looks like this (please adjust the s
 |                         `pip freeze > requirements.txt`  to generate a list with the version of the 
 |                         different packages you use
 │
-├── code               <- Source code for use in this project.
-|    ├── data          <- Scripts to download, generate and process data
-|    │   └── make_dataset.py/m
-|    │   └── process_dataset.py/m
-|    │
-|    ├── algorithms    <- Functions to create models, run models, optization algorithms, etc.
-|    │
-|    ├── results       <- Scripts to apply the algorithms and obtain the results of your project
-|    │
-|    └── visualization <- Scripts and functions for visualizations
-|
-└── laboratory         <- Laboratory classes (add only the necessary files)
-     ├── L1_Git        <- Github
-     ├── L2_GCollab    <- Cloud Computing: Google Collab
-     ├── L3_DB         <- Databases and SQL Query
-     └── L4_Arduino    <- Hardware implementation: Arduino
+└── code               <- Source code for use in this project.
+    ├── data          <- Scripts to download, generate and process data
+    │   └── make_dataset.py/m
+    │   └── process_dataset.py/m
+    │
+    ├── algorithms    <- Functions to create models, run models, optization algorithms, etc.
+    │
+    ├── results       <- Scripts to apply the algorithms and obtain the results of your project
+    │
+    └── visualization <- Scripts and functions for visualizations
 ```
 
 
