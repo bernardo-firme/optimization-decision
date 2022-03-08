@@ -1,4 +1,4 @@
-# Advanced Automation Project Structure
+# Optimization and Decision Project Structure
 
 *A logical, reasonably standardized, but flexible project structure for doing and sharing work. (based on [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/))*
 
